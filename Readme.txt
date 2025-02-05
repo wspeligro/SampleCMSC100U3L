@@ -1,1 +1,1 @@
-Hello world. Goodbye Earth
+Hello world. Goodbye
